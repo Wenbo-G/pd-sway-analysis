@@ -11,6 +11,8 @@ The AUROC was determined through a binary classifier, an ensemble model that inc
 
 The feature selection was done through maximum relevance (highest ANOVA F-value or highest mutal information), minimum redundancy (least Pearson's correlation), wrapper (linear-SVM with L1 penalty), dimensionality reduction (PCA).
 
+The results can be seen in the "Experiment" notebook, which holds all results from the paper, such as images, important effect sizes, and Bayesian analysis results. For the complete results, check out the "Results" folder.
+
+## Features:
 The code extracts 102 unique features, 94 of which are repeated for eyes open and eyes closed postural sway signals, for a total of 196 features. The other 8 unique features utilised both eyes open and eyes closed signals, so are not repeated. The full list of features can be found in feature_names.csv. Alternatively, they can be found in [Table 2 of the Appendix](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fbrb3.1929&file=brb31929-sup-0002-AppendixS2.pdf) of our previous paper: "[Which features of postural sway are effective in distinguishing Parkinson's disease from controls? A systematic review](https://onlinelibrary.wiley.com/doi/10.1002/brb3.1929)", which aimed to do the same thing, but by systematically searching the literature, rather than through experimental methods. 
 
-The results can be seen in the "Experiment" notebook, which holds all results from the paper, such as images, important effect sizes, and Bayesian analysis results. For the complete results, check out the "Results" folder.
