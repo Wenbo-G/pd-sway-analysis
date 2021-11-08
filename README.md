@@ -1,5 +1,5 @@
 # Postural sway analysis for Parkinson's patients
-This repo goes with the paper: "Which features of postural sway are effective in distinguishing Parkinson’s disease patients from controls? An experimental investigation", authored by: Wenbo Ge, Deborah Apthorp, Christian Lueck, and Hanna Suominen.
+This is the online public repo for the paper: "Which features of postural sway are effective in distinguishing Parkinson’s disease patients from controls? An experimental investigation", authored by: Wenbo Ge, Deborah Apthorp, Christian Lueck, and Hanna Suominen.
 
 This contains the code to extract features from the centre of pressure signal, used for patients with Parkinson's disease and controls. This also contains the code to determine the effectiveness of these features through several methods:
 - Effect size of individual features 
