@@ -19,4 +19,5 @@ The code extracts 102 unique features, 94 of which are repeated for eyes open an
 ## Methods:
 More clarity on the methods can be found in the presentation found in the parent folder. The corresponding slides can also be found. If these are not working, a link to the presentation can be found [here](https://screencast-o-matic.com/watch/crXTndVIpGL). This was presented at IEEE BIBM 2021.
 
+## Citation:
 When using our code, please cite our corresponding paper. The citation for this and bibtex entry will be updated when the paper has been published.
